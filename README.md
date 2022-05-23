@@ -1,4 +1,4 @@
-## Ola! Eu sou o Pedro Emanuel
+## Ola! Eu sou o Pedro Emanuel, Aluno em Analise e Desenvolvimento de Sistema, e tambem aspirante a Web Developer
 
 - 🔭 Hoje Eu estou em busca de estagio/esperiencia
 - 🌱 Estudando HTML,CSS,JavaSript "Front End em geral"
@@ -6,8 +6,8 @@
 ##
 <div align="center">
   <a href="https://github.com/PedroMontolive">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMontolive&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMontolive&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroMontolive&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMontolive&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
