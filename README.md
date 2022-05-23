@@ -3,7 +3,7 @@
 - 🔭 Hoje Eu estou em busca de estagio/esperiencia
 - 🌱 Estudando HTML,CSS,JavaSript "Front End em geral"
 - 😄 Pronouns: Ele/Dele
-##
+## Linguagens e Frameworks: 
 <div align="center">
   <a href="https://github.com/PedroMontolive">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroMontolive&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,7 @@
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-##
+## Vamos nos Conectar:
 
 <div>
   <a href="https://www.instagram.com/_pedro.sid/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
