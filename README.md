@@ -1,9 +1,9 @@
-## Ola! Eu sou o Pedro Emanuel, Aluno em Analise e Desenvolvimento de Sistema, e tambem aspirante a Web Developer
+## Hi! I'm Pedro Emanuel, Student in System Analysis and Development, and also an aspiring Web Developer
 
-- 🔭 Hoje Eu estou em busca de estagio/esperiencia
-- 🌱 Estudando HTML,CSS,JavaSript "Front End em geral"
-- 😄 Pronouns: Ele/Dele
-## Linguagens e Frameworks: 
+- 🔭 Today I am an intern at L8Digital in the area of Back-End Web Development
+- 🌱 Studying HTML, CSS, JavaSript, PHP "Front-End and Back-End in general"
+- 😄 Pronouns: He/His
+## Languages and Frameworks: 
 <div align="center">
   <a href="https://github.com/PedroMontolive">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroMontolive&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
