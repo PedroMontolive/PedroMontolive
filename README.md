@@ -1,7 +1,7 @@
 ## Hi! I'm Pedro Emanuel, Student in System Analysis and Development, and also an aspiring Web Developer
 
 - 🔭 Today I am an intern at L8Digital in the area of Back-End Web Development
-- 🌱 Studying HTML, CSS, JavaSript, PHP "Front-End and Back-End in general"
+- 🌱 Studying JavaSript, PHP, Laravel, Inertia.JS "Back-End in general"
 - 😄 Pronouns: He/His
 ## Languages and Frameworks: 
 <div align="center">
