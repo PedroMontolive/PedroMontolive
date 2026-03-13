@@ -104,9 +104,10 @@ Formado em **ADS pela Fatec Presidente Prudente** (2023).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-emanuel-monteiro)
 [![Gmail](https://img.shields.io/badge/pedro.montolive@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro.montolive@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_pedro.sid/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/euoemanuel/)
+<!--
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/FMscDAmQ)
-
+-->
 ```
 status: ✓ aberto a oportunidades — remoto e presencial (PP-SP)
 ```
